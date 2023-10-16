@@ -105,7 +105,7 @@
           "localized": true
         }
       },
-      "type": "string"
+      "type": "text"
     },
     "display": {
       "pluginOptions": {
@@ -159,6 +159,15 @@
       },
       "type": "text",
       "required": false
+    },
+    "competencies": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string",
+      "required": true
     }
   }
 }
