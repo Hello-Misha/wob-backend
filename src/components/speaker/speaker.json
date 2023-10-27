@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_speaker_speakers",
+  "info": {
+    "displayName": "speaker"
+  },
+  "options": {},
+  "attributes": {
+    "speakerPhoto": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "speakerName": {
+      "type": "string"
+    },
+    "speakerBio": {
+      "type": "text"
+    }
+  }
+}
